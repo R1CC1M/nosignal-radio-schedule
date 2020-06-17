@@ -1,6 +1,8 @@
 # nosignal-radio-schedule
 Checks No Signal schedule for the day and sends notifications for current show playing, if user clicks on notification then web browser opens with url of radio station. Works only in Windows. 
 
+![Screenshot](nosig.png)
+
 ## Requirements 
 Beautiful Soup 4 
 ```
